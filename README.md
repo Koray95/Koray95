@@ -9,6 +9,9 @@ Welcome to my Github page!
 
 ### ✔️ I'm currently learning
 - .Net
+- Javascript
+- Html
+- CSS
 ### 💬 Ask me about anything...
 ### 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koraydogan95.com)](mailto:koraydogan95@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/koray-do%C4%9Fan-82bb15214/)](https://www.linkedin.com/in/koray-do%C4%9Fan-82bb15214/)...
 
